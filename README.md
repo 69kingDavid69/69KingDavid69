@@ -14,9 +14,9 @@
 
 <br/>
 
-[![Zero Gate](https://img.shields.io/badge/Zero_Gate-zerogate.co-f4f4f5?style=for-the-badge&labelColor=050505&color=27272a)](https://zerogate.co)
-[![Email](https://img.shields.io/badge/Email-davidbb0003@gmail.com-f4f4f5?style=for-the-badge&logo=gmail&logoColor=f4f4f5&labelColor=050505&color=27272a)](mailto:davidbb0003@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=69kingDavid69&style=for-the-badge&color=27272a&label=VISITORS)
+[![Zero Gate](https://img.shields.io/badge/Zero_Gate-zerogate.co-f4f4f5?style=plastic&labelColor=050505&color=27272a)](https://zerogate.co)
+[![Email](https://img.shields.io/badge/Email-davidbb0003@gmail.com-f4f4f5?style=plastic&logo=gmail&logoColor=f4f4f5&labelColor=050505&color=27272a)](mailto:davidbb0003@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=69kingDavid69&style=plastic&color=27272a&label=VISITORS)
 
 </div>
 
@@ -37,57 +37,57 @@ const david = {
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=for-the-badge&logo=typescript&logoColor=white&labelColor=050505)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=for-the-badge&logo=javascript&logoColor=white&labelColor=050505)
-![Python](https://img.shields.io/badge/Python-18181b?style=for-the-badge&logo=python&logoColor=white&labelColor=050505)
-![Swift](https://img.shields.io/badge/Swift-18181b?style=for-the-badge&logo=swift&logoColor=white&labelColor=050505)
-![SQL](https://img.shields.io/badge/SQL-18181b?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=050505)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=plastic&logo=typescript&logoColor=white&labelColor=050505)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=plastic&logo=javascript&logoColor=white&labelColor=050505)
+![Python](https://img.shields.io/badge/Python-18181b?style=plastic&logo=python&logoColor=white&labelColor=050505)
+![Swift](https://img.shields.io/badge/Swift-18181b?style=plastic&logo=swift&logoColor=white&labelColor=050505)
+![SQL](https://img.shields.io/badge/SQL-18181b?style=plastic&logo=postgresql&logoColor=white&labelColor=050505)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-18181b?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=050505)
-![React](https://img.shields.io/badge/React-18181b?style=for-the-badge&logo=react&logoColor=white&labelColor=050505)
-![Astro](https://img.shields.io/badge/Astro-18181b?style=for-the-badge&logo=astro&logoColor=white&labelColor=050505)
-![Vite](https://img.shields.io/badge/Vite-18181b?style=for-the-badge&logo=vite&logoColor=white&labelColor=050505)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=050505)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181b?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=050505)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-18181b?style=for-the-badge&logo=framer&logoColor=white&labelColor=050505)
-![GSAP](https://img.shields.io/badge/GSAP-18181b?style=for-the-badge&logo=greensock&logoColor=white&labelColor=050505)
-![Three.js](https://img.shields.io/badge/Three.js-18181b?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=050505)
+![Next.js](https://img.shields.io/badge/Next.js-18181b?style=plastic&logo=nextdotjs&logoColor=white&labelColor=050505)
+![React](https://img.shields.io/badge/React-18181b?style=plastic&logo=react&logoColor=white&labelColor=050505)
+![Astro](https://img.shields.io/badge/Astro-18181b?style=plastic&logo=astro&logoColor=white&labelColor=050505)
+![Vite](https://img.shields.io/badge/Vite-18181b?style=plastic&logo=vite&logoColor=white&labelColor=050505)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=plastic&logo=tailwindcss&logoColor=white&labelColor=050505)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-18181b?style=plastic&logo=shadcnui&logoColor=white&labelColor=050505)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-18181b?style=plastic&logo=framer&logoColor=white&labelColor=050505)
+![GSAP](https://img.shields.io/badge/GSAP-18181b?style=plastic&logo=greensock&logoColor=white&labelColor=050505)
+![Three.js](https://img.shields.io/badge/Three.js-18181b?style=plastic&logo=threedotjs&logoColor=white&labelColor=050505)
 
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-18181b?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=050505)
-![Node.js](https://img.shields.io/badge/Node.js-18181b?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=050505)
-![Pydantic](https://img.shields.io/badge/Pydantic-18181b?style=for-the-badge&logo=pydantic&logoColor=white&labelColor=050505)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-18181b?style=for-the-badge&logo=gunicorn&logoColor=white&labelColor=050505)
-![Resend](https://img.shields.io/badge/Resend-18181b?style=for-the-badge&logo=resend&logoColor=white&labelColor=050505)
-![JWT](https://img.shields.io/badge/JWT-18181b?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=050505)
+![FastAPI](https://img.shields.io/badge/FastAPI-18181b?style=plastic&logo=fastapi&logoColor=white&labelColor=050505)
+![Node.js](https://img.shields.io/badge/Node.js-18181b?style=plastic&logo=nodedotjs&logoColor=white&labelColor=050505)
+![Pydantic](https://img.shields.io/badge/Pydantic-18181b?style=plastic&logo=pydantic&logoColor=white&labelColor=050505)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-18181b?style=plastic&logo=gunicorn&logoColor=white&labelColor=050505)
+![Resend](https://img.shields.io/badge/Resend-18181b?style=plastic&logo=resend&logoColor=white&labelColor=050505)
+![JWT](https://img.shields.io/badge/JWT-18181b?style=plastic&logo=jsonwebtokens&logoColor=white&labelColor=050505)
 
 **AI / ML**
 
-![LangChain](https://img.shields.io/badge/LangChain-18181b?style=for-the-badge&logo=langchain&logoColor=white&labelColor=050505)
-![OpenAI](https://img.shields.io/badge/OpenAI-18181b?style=for-the-badge&labelColor=050505&color=18181b)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-18181b?style=for-the-badge&labelColor=050505&color=18181b)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-18181b?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=050505)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-18181b?style=for-the-badge&logo=elevenlabs&logoColor=white&labelColor=050505)
-![NumPy](https://img.shields.io/badge/NumPy-18181b?style=for-the-badge&logo=numpy&logoColor=white&labelColor=050505)
+![LangChain](https://img.shields.io/badge/LangChain-18181b?style=plastic&logo=langchain&logoColor=white&labelColor=050505)
+![OpenAI](https://img.shields.io/badge/OpenAI-18181b?style=plastic&labelColor=050505&color=18181b)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-18181b?style=plastic&labelColor=050505&color=18181b)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-18181b?style=plastic&logo=huggingface&logoColor=white&labelColor=050505)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-18181b?style=plastic&logo=elevenlabs&logoColor=white&labelColor=050505)
+![NumPy](https://img.shields.io/badge/NumPy-18181b?style=plastic&logo=numpy&logoColor=white&labelColor=050505)
 
 **Data & Infra**
 
-![Supabase](https://img.shields.io/badge/Supabase-18181b?style=for-the-badge&logo=supabase&logoColor=white&labelColor=050505)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=050505)
-![Redis](https://img.shields.io/badge/Redis-18181b?style=for-the-badge&logo=redis&logoColor=white&labelColor=050505)
-![MinIO](https://img.shields.io/badge/MinIO_%2F_S3-18181b?style=for-the-badge&logo=minio&logoColor=white&labelColor=050505)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-18181b?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=050505)
+![Supabase](https://img.shields.io/badge/Supabase-18181b?style=plastic&logo=supabase&logoColor=white&labelColor=050505)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=plastic&logo=postgresql&logoColor=white&labelColor=050505)
+![Redis](https://img.shields.io/badge/Redis-18181b?style=plastic&logo=redis&logoColor=white&labelColor=050505)
+![MinIO](https://img.shields.io/badge/MinIO_%2F_S3-18181b?style=plastic&logo=minio&logoColor=white&labelColor=050505)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-18181b?style=plastic&logo=rabbitmq&logoColor=white&labelColor=050505)
 
 **DevOps & Deploy**
 
-![Docker](https://img.shields.io/badge/Docker-18181b?style=for-the-badge&logo=docker&logoColor=white&labelColor=050505)
-![Vercel](https://img.shields.io/badge/Vercel-18181b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-18181b?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=050505)
-![Fly.io](https://img.shields.io/badge/Fly.io-18181b?style=for-the-badge&logo=flydotio&logoColor=white&labelColor=050505)
-![Git](https://img.shields.io/badge/Git-18181b?style=for-the-badge&logo=git&logoColor=white&labelColor=050505)
+![Docker](https://img.shields.io/badge/Docker-18181b?style=plastic&logo=docker&logoColor=white&labelColor=050505)
+![Vercel](https://img.shields.io/badge/Vercel-18181b?style=plastic&logo=vercel&logoColor=white&labelColor=050505)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-18181b?style=plastic&logo=cloudflare&logoColor=white&labelColor=050505)
+![Fly.io](https://img.shields.io/badge/Fly.io-18181b?style=plastic&logo=flydotio&logoColor=white&labelColor=050505)
+![Git](https://img.shields.io/badge/Git-18181b?style=plastic&logo=git&logoColor=white&labelColor=050505)
 
 ## ◈ Selected work
 
