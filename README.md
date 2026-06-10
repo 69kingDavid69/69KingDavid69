@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://zerogate.co">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:18181b,100:3f3f46&height=220&section=header&text=David%20%C2%B7%20Builder&fontSize=46&fontColor=f4f4f5&fontAlignY=38&desc=AI%20Solutions%20%26%20Business%20Process%20Automation&descSize=16&descAlignY=60&descColor=a1a1aa" alt="header" />
 </a>
 
